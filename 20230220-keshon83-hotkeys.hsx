@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MaxHotkeyTransformations Locked="false">
+    <Assign_Hotkey Shortcut="Shift+F" Id="369982487-40018"/>
+    <Assign_Hotkey Shortcut="Shift+=" Id="369982487-40037"/>
+    <Assign_Hotkey Shortcut="Shift+-" Id="369982487-40040"/>
+    <Assign_Hotkey Shortcut="Alt+C" Id="369982487-40062"/>
+    <Assign_Hotkey Shortcut="N" Id="369982487-40014"/>
+    <Assign_Hotkey Shortcut="Alt+E" Id="369982487-40054"/>
+    <Assign_Hotkey Shortcut="\" Id="369982487-40015"/>
+    <Assign_Hotkey Shortcut="Alt+I" Id="369982487-40066"/>
+    <Assign_Hotkey Shortcut="Ctrl+B" Id="369982487-40091"/>
+    <Assign_Hotkey Shortcut="Alt+X" Id="369982487-40057"/>
+    <Assign_Hotkey Shortcut="Ctrl+Alt+D" Id="369982487-40031"/>
+    <Assign_Hotkey Shortcut="Shift+A" Id="369982487-40010"/>
+    <Assign_Hotkey Shortcut="Ctrl+Shift+A" Id="369982487-40043"/>
+    <Assign_Hotkey Shortcut="Alt+P" Id="369982487-40060"/>
+    <Assign_Hotkey Shortcut="H" Id="369982487-40021"/>
+    <Assign_Hotkey Shortcut="Shift+H" Id="369982487-40086"/>
+    <Assign_Hotkey Shortcut="Shift+X" Id="369982487-40038"/>
+    <Assign_Hotkey Shortcut="Ctrl+I" Id="951718758-40022"/>
+    <Assign_Hotkey Shortcut="Alt+X" Id="1250838234-40057"/>
+    <Assign_Hotkey Shortcut="Ctrl+B" Id="1250838234-40091"/>
+    <Assign_Hotkey Shortcut="Alt+P" Id="1250838234-40060"/>
+    <Assign_Hotkey Shortcut="B" Id="1250838234-40056"/>
+    <Assign_Hotkey Shortcut="Alt+C" Id="1250838234-40062"/>
+    <Assign_Hotkey Shortcut="N" Id="1250838234-40014"/>
+    <Assign_Hotkey Shortcut="\" Id="1250838234-40015"/>
+    <Assign_Hotkey Shortcut="Ctrl+Alt+D" Id="1250838234-40031"/>
+    <Assign_Hotkey Shortcut="Shift+A" Id="1250838234-40010"/>
+    <Assign_Hotkey Shortcut="Ctrl+Shift+A" Id="1250838234-40043"/>
+    <Assign_Hotkey Shortcut="Shift+F" Id="1250838234-40018"/>
+    <Assign_Hotkey Shortcut="Alt+E" Id="1250838234-40054"/>
+    <Assign_Hotkey Shortcut="Shift+=" Id="1250838234-40037"/>
+    <Assign_Hotkey Shortcut="H" Id="1250838234-40021"/>
+    <Assign_Hotkey Shortcut="Shift+H" Id="1250838234-40086"/>
+    <Assign_Hotkey Shortcut="Alt+I" Id="1250838234-40066"/>
+    <Assign_Hotkey Shortcut="Shift+X" Id="1250838234-40038"/>
+    <Assign_Hotkey Shortcut="Shift+-" Id="1250838234-40040"/>
+    <Assign_Hotkey Shortcut="Ctrl+Shift+W" Id="1250838234-40007"/>
+    <Assign_Hotkey Shortcut="Space" Id="2077580866-40020"/>
+    <Assign_Hotkey Shortcut="F" Id="2077580866-40030"/>
+    <Assign_Hotkey Shortcut="A" Id="2077580866-40029"/>
+    <Assign_Hotkey Shortcut="S" Id="2077580866-40031"/>
+    <Assign_Hotkey Shortcut="Shift+R" Id="2077580866-40073"/>
+    <Assign_Hotkey Shortcut="Alt+7" Id="2077580866-40005"/>
+    <Assign_Hotkey Shortcut="L" Id="2077580866-40202"/>
+    <Assign_Hotkey Shortcut="Alt+L" Id="2077580866-40199"/>
+    <Assign_Hotkey Shortcut="Shift+E" Id="2077580866-40072"/>
+    <Assign_Hotkey Shortcut="Shift+W" Id="2077580866-40066"/>
+    <Assign_Hotkey Shortcut="Shift+T" Id="2077580866-40071"/>
+    <Assign_Hotkey Shortcut="F" Id="369891408-40071"/>
+    <Assign_Hotkey Shortcut="A" Id="369891408-40070"/>
+    <Assign_Hotkey Shortcut="A" Id="0-331"/>
+    <Assign_Hotkey Shortcut="F" Id="0-310"/>
+    <Assign_Hotkey Shortcut="I" Id="0-268"/>
+    <Assign_Hotkey Shortcut="Ins" Id="0-226"/>
+    <Assign_Hotkey Shortcut="Alt+Z" Id="0-40104"/>
+    <Assign_Hotkey Shortcut="Shift+S" Id="0-40074"/>
+    <Assign_Hotkey Shortcut="Num+6" Id="0-40062"/>
+    <Assign_Hotkey Shortcut="Alt+Y" Id="0-40101"/>
+    <Assign_Hotkey Shortcut="Ctrl+G" Id="0-40140"/>
+    <Assign_Hotkey Shortcut="Num+8" Id="0-40063"/>
+    <Assign_Hotkey Shortcut="Ctrl+Shift+X" Id="0-373"/>
+    <Assign_Hotkey Shortcut="Ctrl+Shift+V" Id="0-50021"/>
+    <Assign_Hotkey Shortcut="Num+4" Id="0-40061"/>
+    <Assign_Hotkey Shortcut="Alt+M" Id="0-40210"/>
+    <Assign_Hotkey Shortcut="Alt+Q" Id="0-50031"/>
+    <Assign_Hotkey Shortcut="Num+5" Id="0-40059"/>
+    <Assign_Hotkey Shortcut="Shift+H" Id="0-277"/>
+    <Assign_Hotkey Shortcut="4" Id="0-369"/>
+    <Assign_Hotkey Shortcut="Shift+D" Id="0-40848"/>
+    <Assign_Hotkey Shortcut="3" Id="0-40844"/>
+    <Assign_Hotkey Shortcut="Ctrl+Shift+A" Id="0-59227"/>
+    <Assign_Hotkey Shortcut="Ctrl+Shift+I" Id="0-40044"/>
+    <Assign_Hotkey Shortcut="R" Id="0-50003"/>
+    <Assign_Hotkey Shortcut="Alt+Shift+A" Id="0-40114"/>
+    <Assign_Hotkey Shortcut="Shift+3" Id="0-40843"/>
+    <Assign_Hotkey Shortcut="H" Id="0-223"/>
+    <Assign_Hotkey Shortcut="Q" Id="0-40043"/>
+    <Assign_Hotkey Shortcut="F" Id="1-1120"/>
+    <Assign_Hotkey Shortcut="F" Id="5-900"/>
+    <Assign_Hotkey Shortcut="A" Id="5-800"/>
+    <Assign_Hotkey Shortcut="Shift+F3" Id="3450739058-1"/>
+    <Assign_Hotkey Shortcut="Shift+X" Id="647394-EPoly_TargetWeld`Editable Polygon Object"/>
+    <Assign_Hotkey Shortcut="N" Id="647394-EPoly_FCreate`Editable Polygon Object"/>
+    <Assign_Hotkey Shortcut="X" Id="647394-EPoly_VCreate`Editable Polygon Object"/>
+    <Assign_Hotkey Shortcut="Shift+-" Id="647394-ShrinkSelection`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="]" Id="647394-SwiftLoop`PolyTools"/>
+    <Assign_Hotkey Shortcut="Ctrl+R" Id="647394-SubobjectConvertPolygon`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="Ctrl+T" Id="647394-SubobjectConvertVertex`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="Ctrl+E" Id="647394-SubobjectConvertEdge`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="Shift+=" Id="647394-GrowSelection`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="7" Id="647394-material_edit_selected_sme`Medit Tools"/>
+    <Assign_Hotkey Shortcut="K" Id="647394-ParamCollectorKeySelected`Parameter Collector"/>
+    <Assign_Hotkey Shortcut="Alt+[" Id="647394-CutsSlicePlane`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="[" Id="647394-CutsQuickSlice`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="Ctrl+Alt+E" Id="647394-EPoly_ExtrudeAlongSplineOptions`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="Ctrl+Shift+H" Id="647394-HideUnSelected`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="Ctrl+H" Id="647394-UnhideAll`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="Ctrl+Alt+-" Id="647394-PaintSelBrushSizeDown`Selection"/>
+    <Assign_Hotkey Shortcut="Ctrl+Alt+=" Id="647394-PaintSelBrushSizeUp`Selection"/>
+    <Assign_Hotkey Shortcut="8" Id="647394-SESceneExplorer`Scene Explorer"/>
+    <Assign_Hotkey Shortcut="F3" Id="647394-mesh_validator_toggle`Mesh Validator Tools"/>
+    <Assign_Hotkey Shortcut="L" Id="647394-Loop`PolyTools"/>
+    <Assign_Hotkey Shortcut="Alt+L" Id="647394-Ring`PolyTools"/>
+    <Assign_Hotkey Shortcut="Alt+Shift+C" Id="647394-FlowConnect`PolyTools"/>
+    <Assign_Hotkey Shortcut="Ctrl+Alt+Shift+C" Id="647394-FlowConnectAutoRing`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="1" Id="647394-CoordSystemWorldSC`keshon83"/>
+    <Assign_Hotkey Shortcut="2" Id="647394-CoordSystemLocalPC`keshon83"/>
+    <Assign_Hotkey Shortcut="Shift+W" Id="647394-ObjectToggle`keshon83"/>
+    <Assign_Hotkey Shortcut="Alt+W" Id="647394-QuadSingleViewport`keshon83"/>
+    <Assign_Hotkey Shortcut="Ctrl+C" Id="647394-QuickCopy`keshon83"/>
+    <Assign_Hotkey Shortcut="Ctrl+D" Id="647394-QuickExtrude`keshon83"/>
+    <Assign_Hotkey Shortcut="`" Id="647394-RaycastPaintSelection`keshon83"/>
+    <Assign_Hotkey Shortcut="Alt+D" Id="647394-ResetObjPivot`keshon83"/>
+    <Assign_Hotkey Shortcut="D" Id="647394-SelectObjPivot`keshon83"/>
+    <Assign_Hotkey Shortcut="Shift+T" Id="647394-SelectVertex`keshon83"/>
+    <Assign_Hotkey Shortcut="Shift+E" Id="647394-SelectEdge`keshon83"/>
+    <Assign_Hotkey Shortcut="Shift+Y" Id="647394-SelectBorder`keshon83"/>
+    <Assign_Hotkey Shortcut="Shift+R" Id="647394-SelectPolygon`keshon83"/>
+    <Assign_Hotkey Shortcut="Ctrl+W" Id="647394-SelectElement`keshon83"/>
+    <Assign_Hotkey Shortcut="Space" Id="647394-SelectObject`keshon83"/>
+    <Unassign_Hotkey Shortcut="1" Id="369982487-40003"/>
+    <Unassign_Hotkey Shortcut="2" Id="369982487-40004"/>
+    <Unassign_Hotkey Shortcut="3" Id="369982487-40005"/>
+    <Unassign_Hotkey Shortcut="4" Id="369982487-40006"/>
+    <Unassign_Hotkey Shortcut="5" Id="369982487-40007"/>
+    <Unassign_Hotkey Shortcut="6" Id="369982487-40008"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+E" Id="369982487-40061"/>
+    <Unassign_Hotkey Shortcut="Shift+X" Id="369982487-40084"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+B" Id="369982487-40013"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+C" Id="369982487-40055"/>
+    <Unassign_Hotkey Shortcut="Alt+C" Id="369982487-40015"/>
+    <Unassign_Hotkey Shortcut="Shift+E" Id="369982487-40017"/>
+    <Unassign_Hotkey Shortcut="Alt+H" Id="369982487-40021"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+Q" Id="369982487-40044"/>
+    <Unassign_Hotkey Shortcut="Ctrl+PgDown" Id="369982487-40040"/>
+    <Unassign_Hotkey Shortcut="Ctrl+PgUp" Id="369982487-40037"/>
+    <Unassign_Hotkey Shortcut="Alt+U" Id="369982487-40033"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+W" Id="369982487-40038"/>
+    <Unassign_Hotkey Shortcut="Alt+I" Id="369982487-40086"/>
+    <Unassign_Hotkey Shortcut=";" Id="369982487-40052"/>
+    <Unassign_Hotkey Shortcut="1" Id="1250838234-40003"/>
+    <Unassign_Hotkey Shortcut="2" Id="1250838234-40004"/>
+    <Unassign_Hotkey Shortcut="3" Id="1250838234-40005"/>
+    <Unassign_Hotkey Shortcut="4" Id="1250838234-40006"/>
+    <Unassign_Hotkey Shortcut="5" Id="1250838234-40007"/>
+    <Unassign_Hotkey Shortcut="6" Id="1250838234-40008"/>
+    <Unassign_Hotkey Shortcut="Shift+B" Id="1250838234-40011"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+E" Id="1250838234-40061"/>
+    <Unassign_Hotkey Shortcut="Alt+I" Id="1250838234-40086"/>
+    <Unassign_Hotkey Shortcut="Shift+X" Id="1250838234-40084"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+B" Id="1250838234-40013"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+C" Id="1250838234-40055"/>
+    <Unassign_Hotkey Shortcut="Alt+C" Id="1250838234-40015"/>
+    <Unassign_Hotkey Shortcut="Ctrl+PgUp" Id="1250838234-40037"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+Q" Id="1250838234-40044"/>
+    <Unassign_Hotkey Shortcut=";" Id="1250838234-40052"/>
+    <Unassign_Hotkey Shortcut="Ctrl+PgDown" Id="1250838234-40040"/>
+    <Unassign_Hotkey Shortcut="Alt+U" Id="1250838234-40033"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+W" Id="1250838234-40038"/>
+    <Unassign_Hotkey Shortcut="Shift+E" Id="1250838234-40017"/>
+    <Unassign_Hotkey Shortcut="Alt+H" Id="1250838234-40021"/>
+    <Unassign_Hotkey Shortcut="Ctrl+E" Id="2077580866-40005"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Alt+Z" Id="2077580866-40029"/>
+    <Unassign_Hotkey Shortcut="Z" Id="2077580866-40030"/>
+    <Unassign_Hotkey Shortcut="Alt+R" Id="2077580866-45348"/>
+    <Unassign_Hotkey Shortcut="Ctrl+L" Id="2077580866-40020"/>
+    <Unassign_Hotkey Shortcut="A" Id="369891408-40500"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Alt+Z" Id="369891408-40070"/>
+    <Unassign_Hotkey Shortcut="Z" Id="369891408-40071"/>
+    <Unassign_Hotkey Shortcut="X" Id="39081-32653"/>
+    <Unassign_Hotkey Shortcut="Shift+V" Id="0-40033"/>
+    <Unassign_Hotkey Shortcut="[" Id="0-321"/>
+    <Unassign_Hotkey Shortcut="\" Id="0-40204"/>
+    <Unassign_Hotkey Shortcut="]" Id="0-320"/>
+    <Unassign_Hotkey Shortcut="A" Id="0-40074"/>
+    <Unassign_Hotkey Shortcut="B" Id="0-40063"/>
+    <Unassign_Hotkey Shortcut="Ctrl+B" Id="0-40205"/>
+    <Unassign_Hotkey Shortcut="Shift+C" Id="0-40185"/>
+    <Unassign_Hotkey Shortcut="D" Id="0-40126"/>
+    <Unassign_Hotkey Shortcut="F" Id="0-40060"/>
+    <Unassign_Hotkey Shortcut="Shift+F" Id="0-219"/>
+    <Unassign_Hotkey Shortcut="H" Id="0-50029"/>
+    <Unassign_Hotkey Shortcut="Shift+H" Id="0-40187"/>
+    <Unassign_Hotkey Shortcut="I" Id="0-322"/>
+    <Unassign_Hotkey Shortcut="K" Id="0-40800"/>
+    <Unassign_Hotkey Shortcut="L" Id="0-40061"/>
+    <Unassign_Hotkey Shortcut="N" Id="0-50024"/>
+    <Unassign_Hotkey Shortcut="T" Id="0-40059"/>
+    <Unassign_Hotkey Shortcut="Ctrl+W" Id="0-50014"/>
+    <Unassign_Hotkey Shortcut="Shift+Z" Id="0-40104"/>
+    <Unassign_Hotkey Shortcut="F3" Id="0-272"/>
+    <Unassign_Hotkey Shortcut="F4" Id="0-369"/>
+    <Unassign_Hotkey Shortcut="Alt+B" Id="0-40095"/>
+    <Unassign_Hotkey Shortcut="Ctrl+H" Id="0-40087"/>
+    <Unassign_Hotkey Shortcut="Alt+X" Id="0-373"/>
+    <Unassign_Hotkey Shortcut="Ctrl+X" Id="0-40264"/>
+    <Unassign_Hotkey Shortcut="Ctrl+E" Id="0-278"/>
+    <Unassign_Hotkey Shortcut="Alt+Z" Id="0-50013"/>
+    <Unassign_Hotkey Shortcut="Alt+W" Id="0-50026"/>
+    <Unassign_Hotkey Shortcut="Shift+Y" Id="0-40101"/>
+    <Unassign_Hotkey Shortcut="Space" Id="0-59231"/>
+    <Unassign_Hotkey Shortcut="Ctrl+D" Id="0-40043"/>
+    <Unassign_Hotkey Shortcut="Shift+S" Id="0-40191"/>
+    <Unassign_Hotkey Shortcut="`" Id="0-40130"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+Z" Id="0-331"/>
+    <Unassign_Hotkey Shortcut="Num+4" Id="0-364"/>
+    <Unassign_Hotkey Shortcut="Num+6" Id="0-365"/>
+    <Unassign_Hotkey Shortcut="Num+8" Id="0-362"/>
+    <Unassign_Hotkey Shortcut="8" Id="0-40029"/>
+    <Unassign_Hotkey Shortcut="/" Id="0-50021"/>
+    <Unassign_Hotkey Shortcut="Ctrl+R" Id="0-40203"/>
+    <Unassign_Hotkey Shortcut="Alt+D" Id="0-40904"/>
+    <Unassign_Hotkey Shortcut="Alt+S" Id="0-40906"/>
+    <Unassign_Hotkey Shortcut="7" Id="0-40829"/>
+    <Unassign_Hotkey Shortcut="Shift+Q" Id="0-50031"/>
+    <Unassign_Hotkey Shortcut="Alt+Q" Id="0-197"/>
+    <Unassign_Hotkey Shortcut="Z" Id="0-310"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+X" Id="0-401"/>
+    <Unassign_Hotkey Shortcut="Alt+J" Id="0-470"/>
+    <Unassign_Hotkey Shortcut="Z" Id="5-900"/>
+    <Unassign_Hotkey Shortcut="S" Id="5-500"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Alt+Z" Id="5-800"/>
+    <Unassign_Hotkey Shortcut="Shift+F3" Id="3450739058-12"/>
+    <Unassign_Hotkey Shortcut="Shift+W" Id="1920373764-52"/>
+    <Unassign_Hotkey Shortcut="Y" Id="647394-SmartPlace`Tools"/>
+    <Unassign_Hotkey Shortcut="Ins" Id="647394-PivotMode_Toggle`Tools"/>
+    <Unassign_Hotkey Shortcut="Alt+E" Id="647394-EPoly_Extrude_Along_Spline`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Alt+C" Id="647394-EPoly_Cut`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Alt+P" Id="647394-EPoly_Cap`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="1" Id="647394-SubObject_1`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="2" Id="647394-SubObject_2`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="3" Id="647394-SubObject_3`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="4" Id="647394-SubObject_4`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="R" Id="647394-SmartScale`Tools"/>
+    <Unassign_Hotkey Shortcut="5" Id="647394-SubObject_5`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="Ctrl+C" Id="647394-PhysicalCamera_CreateFromView`Lights and Cameras"/>
+    <Unassign_Hotkey Shortcut="Q" Id="647394-SmartSelect`Selection"/>
+    <Unassign_Hotkey Shortcut="Shift+T" Id="647394-AssetTrackingSystemToggle`Asset Tracking System"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+B" Id="647394-EPoly_Bevel`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+C" Id="647394-EPoly_Chamfer`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Shift+X" Id="647394-EPoly_Toggle_Edge_Constraint`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Shift+E" Id="647394-EPoly_FExtrude`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Ctrl+PgUp" Id="647394-EPoly_Grow`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Alt+I" Id="647394-EPoly_Hide_Unselected`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+I" Id="647394-EPoly_IgnoreBack_Toggle`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+W" Id="647394-EPoly_Weld`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Alt+L" Id="647394-EPoly_Select_Loop`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="Alt+R" Id="647394-EPoly_Select_Ring`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="V" Id="1261319018-Viewports"/>
+    <Assign_Hotkey Shortcut="Ctrl+Alt+B" Description="Bridge" Id="369982487-40090"/>
+    <Assign_Hotkey Shortcut="Ctrl+Alt+B" Description="Poly Bridge Options" Id="647394-PolyBridgeOptions`Ribbon - Modeling"/>
+    <Unassign_Hotkey Shortcut="Shift+R" Description="Break" Id="1250838234-40011"/>
+    <Unassign_Hotkey Shortcut="Shift+R" Description="Break" Id="369982487-40011"/>
+    <Unassign_Hotkey Shortcut="B" Description="Edit Soft Selection Mode" Id="369982487-41016"/>
+    <Assign_Hotkey Shortcut="B" Description="Chamfer Settings" Id="369982487-40056"/>
+    <Assign_Hotkey Shortcut="Alt+B" Description="Chamfer or Bevel" Id="647394-ChamferBevel`keshon83"/>
+</MaxHotkeyTransformations>
