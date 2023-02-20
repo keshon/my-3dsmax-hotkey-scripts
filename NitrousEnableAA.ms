@@ -1,0 +1,1 @@
+NitrousGraphicsManager.AntialiasingQuality = #8X
